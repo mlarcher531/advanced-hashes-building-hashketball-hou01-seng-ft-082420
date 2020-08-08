@@ -22,7 +22,7 @@ game_hash = {
   shoe: 14,
 points: 12,
 rebounds: 12,
-assists: 12
+assists: 12,
 steals: 12,
 blocks: 12,
 slam_dunks: 7
