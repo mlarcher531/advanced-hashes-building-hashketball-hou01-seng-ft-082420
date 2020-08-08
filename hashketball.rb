@@ -17,7 +17,16 @@ game_hash = {
       blocks:1,
       slam_dunks:1
     },
-    #start here with Reggie Evans
+    {player_name:"Reggie Evans",
+    number: 30,
+  shoe: 14,
+points: 12,
+rebounds: 12,
+assists: 12
+steals: 12,
+blocks: 12,
+slam_dunks: 7
+},
     ]
   },
 
